@@ -1,2 +1,133 @@
-# NBA-Salary-Efficiency-Team-Performance-Analyzer
-Sports analytics project using AI and machine learning to evaluate NBA salary efficiency and team performance
+# NBA Salary Efficiency and Team Performance Analyzer
+
+## Project Overview
+
+The NBA Salary Efficiency Analyzer is a sports analytics project that investigates how efficiently NBA teams spend their payroll relative to their on-court performance.
+
+The goal is to combine team payroll, salary cap information, traditional statistics, and advanced statistics into one master dataset and use data analytics and machine learning to answer questions about team efficiency.
+
+This project combines my interests in artificial intelligence, finance, economics, sports analytics, and data science.
+
+
+## Research Question
+
+**Which NBA teams receive the greatest value from their payroll, and which teams appear to overspend relative to their performance?**
+
+---
+
+## Objectives
+
+- Merge multiple NBA datasets into one master dataset
+- Clean and organize real-world data
+- Perform exploratory data analysis (EDA)
+- Create professional visualizations
+- Build machine learning models to predict team success
+- Develop an interactive dashboard using Streamlit
+- Present actionable insights about NBA salary efficiency and team performance
+
+---
+
+## Datasets Used
+
+This project combines multiple publicly available NBA datasets, including:
+
+- Team payroll
+- Salary cap information
+- Team statistics
+- Advanced team statistics
+
+These datasets are merged into a single master dataset for analysis.
+
+---
+
+## Tools and Libraries
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Streamlit
+- GitHub
+
+---
+
+## Current Features
+
+- Data cleaning and preprocessing
+- Combined master dataset
+- Exploratory data analysis
+- Salary efficiency metrics
+- Team performance comparisons
+- Machine learning prediction models
+- Interactive dashboard (in progress)
+
+---
+
+## Project Structure
+
+```
+NBA-Salary-Efficiency-Analyzer
+│
+├── data/
+├── notebooks/
+├── dashboard/
+├── charts/
+├── images/
+└── README.md
+```
+
+---
+
+## Key Questions
+
+Some questions this project explores include:
+
+- Does spending more money lead to more wins?
+- Which teams outperform their payroll?
+- Which teams underperform despite large payrolls?
+- What statistics are most closely related to winning?
+- Can machine learning predict team success using team statistics?
+
+---
+
+## Skills Demonstrated
+
+This project demonstrates experience with:
+
+- Data cleaning
+- Data visualization
+- Exploratory data analysis
+- Feature selection
+- Machine learning
+- Decision trees
+- Model evaluation
+- Sports analytics
+- GitHub version control
+
+---
+
+## Future Improvements
+
+Future versions of this project will include:
+
+- Additional machine learning models
+- Player-level salary efficiency analysis
+- Multi-season comparisons
+- Advanced dashboard features
+- Interactive filtering
+- Predictive salary efficiency metrics
+
+---
+
+## About Me
+
+I am a rising junior at The Peddie School with interests in artificial intelligence, finance, data analytics, and sports analytics.
+
+This project is part of my Summer 2026 independent AI and data analytics research project, where I am developing practical machine learning and data science skills through real-world projects.
+
+---
+
+## License
+
+This project is intended for educational and portfolio purposes.
