@@ -70,10 +70,26 @@ These datasets are merged into a single master dataset for analysis.
 NBA-Salary-Efficiency-Analyzer
 │
 ├── data/
+  NBA_team_payroll_2026.csv
+  NBA_team_salarycap_2026.csv
+  NBA_team_stats.csv
+  NBA_team_stats2.csv
+  NBA_Master_Dataset_2026.csv
 ├── notebooks/
+  nba_salaries.ipynb
+  NBA_Master_Dataset_2026.ipynb
+  NBA_Salary_Efficiency_Table.ipynb
+  NBA_team_payroll_2026.ipynb
+  NBA_team_salarycap_2026.ipynb
+  NBA_Teams Notebook.ipynb
+  NBA_Teams Notebook2.ipynb
 ├── dashboard/
 ├── charts/
-├── images/
+  NBA Team Payroll by Team (2026).png
+  NBA Team Total Points (2026).png
+  NBA_teams_losses_2026.png
+  NBA_teams_PPG.png
+  NBA_teams_wins_2026.png
 └── README.md
 ```
 
