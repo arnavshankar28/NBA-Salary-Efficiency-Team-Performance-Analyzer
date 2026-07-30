@@ -11,7 +11,7 @@ This project combines my interests in artificial intelligence, finance, sports a
 
 ## Research Question
 
-**Which NBA teams receive the greatest value from their payroll, and which teams appear to overspend relative to their on-court performance?**
+**How efficiently do NBA franchises convert payroll expenditures into regular-season performance, and which organizations maximize competitive outcomes relative to financial investment?**
 
 ---
 
