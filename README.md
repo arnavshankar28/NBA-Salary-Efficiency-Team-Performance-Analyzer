@@ -11,7 +11,7 @@ This project combines my interests in artificial intelligence, finance, sports a
 
 ## Research Question
 
-**Which NBA teams receive the greatest value from their payroll in terms of on-court performance, and which teams appear to overspend relative to their on-court performance?**
+**Which NBA teams receive the greatest value from their payroll, and which teams appear to overspend relative to their on-court performance?**
 
 ---
 
