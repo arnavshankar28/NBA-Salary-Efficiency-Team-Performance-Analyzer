@@ -90,6 +90,9 @@ NBA-Salary-Efficiency-Analyzer
   NBA_teams_losses_2026.png
   NBA_teams_PPG.png
   NBA_teams_wins_2026.png
+  Cost Per Win by NBA Team.png
+  NBA Team Payroll vs Wins (2025-2026).png
+  Top 10 Highest NBA Team Payrolls.png
 └── README.md
 ```
 
