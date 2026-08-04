@@ -75,6 +75,9 @@ NBA-Salary-Efficiency-Analyzer
   NBA_team_stats.csv
   NBA_team_stats2.csv
   NBA_Master_Dataset_2026.csv
+  NBA_Master_Dataset_V2_2026.csv
+  NBA_Teams_ShootingStats_2025-26.csv
+  NBA_Salaries.csv
 ├── notebooks/
   nba_salaries.ipynb
   NBA_Master_Dataset_2026.ipynb
@@ -83,6 +86,7 @@ NBA-Salary-Efficiency-Analyzer
   NBA_team_salarycap_2026.ipynb
   NBA_Teams Notebook.ipynb
   NBA_Teams Notebook2.ipynb
+  NBA_Master_Dataset_V2_2026.ipynb
 ├── dashboard/
 ├── charts/
   NBA Team Payroll by Team (2026).png
@@ -93,6 +97,7 @@ NBA-Salary-Efficiency-Analyzer
   Cost Per Win by NBA Team.png
   NBA Team Payroll vs Wins (2025-2026).png
   Top 10 Highest NBA Team Payrolls.png
+  NBA_Master_Dataset_HeatMap_ImportantFeatures.png
 └── README.md
 ```
 
