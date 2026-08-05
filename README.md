@@ -87,6 +87,7 @@ NBA-Salary-Efficiency-Analyzer
   NBA_Teams Notebook.ipynb
   NBA_Teams Notebook2.ipynb
   NBA_Master_Dataset_V2_2026.ipynb
+  NBA_PRediciton_Model_V2.ipynb
 ├── dashboard/
 ├── charts/
   NBA Team Payroll by Team (2026).png
@@ -102,6 +103,9 @@ NBA-Salary-Efficiency-Analyzer
 ```
 
 ---
+
+## Prediction Model
+A Random Forest Regressor was developed to predict NBA team regular season wins using advanced team statistics, payroll data, and roster metrics. The model was optimized using GridSearchCV and evaluated with 5-fold repeated cross-validation, achieving an average MAE of 4.98 wins, RMSE of 5.75 wins, and R² of 0.688, explaining approximately 69% of the variation in team wins.
 
 ## Key Questions
 
