@@ -99,6 +99,10 @@ NBA-Salary-Efficiency-Analyzer
   NBA Team Payroll vs Wins (2025-2026).png
   Top 10 Highest NBA Team Payrolls.png
   NBA_Master_Dataset_HeatMap_ImportantFeatures.png
+  Actual_vs_Expected_Wins.png
+  Predicted_NBA_Standings.png
+  Salary_Efficientcy_Rankings.png
+  NBA_Value_Rankings.png
 └── README.md
 ```
 
