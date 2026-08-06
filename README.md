@@ -1,5 +1,8 @@
 # NBA Salary Efficiency and Team Performance Analyzer
 
+<img width="2952" height="2068" alt="Salary_Efficiency_Rankings" src="https://github.com/user-attachments/assets/2aaf3f61-ccb8-4427-acb2-640c7e10e634" />
+
+
 ## Project Overview
 
 The NBA Salary Efficiency Analyzer is a sports analytics project that investigates how efficiently NBA teams spend their payroll relative to their on-court performance.
@@ -109,7 +112,7 @@ NBA-Salary-Efficiency-Analyzer
 ---
 
 ## Prediction Model
-A Random Forest Regressor was developed to predict NBA team regular season wins using advanced team statistics, payroll data, and roster metrics. The model was optimized using GridSearchCV and evaluated with 5-fold repeated cross-validation, achieving an average MAE of 4.98 wins, RMSE of 5.75 wins, and R² of 0.688, explaining approximately 69% of the variation in team wins.
+Random Forest was the selected model for this project because it captures nonlinear relationships between payroll and team performance while reducing overfitting through ensemble learning. The Random Forest Regressor was developed to predict NBA team regular season wins using advanced team statistics, payroll data, and roster metrics. The model was optimized using GridSearchCV and evaluated with 5-fold repeated cross-validation, achieving an average MAE of 4.98 wins, RMSE of 5.75 wins, and R² of 0.688, explaining approximately 69% of the variation in team wins.
 
 ## Key Questions
 
@@ -120,6 +123,15 @@ Some questions this project explores include:
 - Which teams underperform despite large payrolls?
 - What statistics are most closely related to winning?
 - Can machine learning predict team success using team statistics?
+
+
+## Key Findings:
+- Payroll alone is not enough to predict success. Team payroll had only a moderate correlation (r ≈ 0.43) with regular season wins, showing that spending more does not guarantee better performance.
+- Efficiency is more important than total spending. Metrics such as Cost Per Win and Net Rating per Million Dollars better identified teams that maximized performance relative to payroll.
+- Advanced team statistics were the strongest predictors of wins. Metrics like Net Rating, Offensive Rating, and True Shooting Percentage had greater predictive value than payroll alone.
+- The machine learning model performed well. A Random Forest Regressor achieved an average MAE of 4.98 wins, RMSE of 5.75 wins, and R² of 0.688, explaining about 69% of the variation in team wins.
+
+<img width="1326" height="1161" alt="NBA_Master_Dataset_HeatMap_ImportantFeatures" src="https://github.com/user-attachments/assets/102ff6df-0a8a-43e3-9b9d-931d9526ccee" />
 
 ---
 
